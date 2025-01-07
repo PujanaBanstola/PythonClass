@@ -2,7 +2,6 @@
 import qrcode
 img = qrcode.make('Pujana Banstola')
 
-
 ### WIFI Link
 phone=9813950953
 message="Hello I am Pujana Banstola"

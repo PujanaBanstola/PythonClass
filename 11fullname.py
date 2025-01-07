@@ -22,3 +22,4 @@ print(f"Full name is : {full_name} and length is {len(full_name)}")
 ### Output: Ram live in USA
 
 # names[0] lives in addreess[0]
+
